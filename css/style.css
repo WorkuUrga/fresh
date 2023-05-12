@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+
+
+@media only screen and (max-width: 475px){
+    body{
+        background-color: aquamarine;
+    }
+
+}
+
+#nav-bar{
+    display: flex;
+    justify-content: space-around;
+
+
+}
